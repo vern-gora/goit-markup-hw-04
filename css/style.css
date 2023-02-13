@@ -94,7 +94,7 @@ body {
 /* ---------- HEADER ---------- */
 
 .header {
-  border-bottom: 1px solid var(--subtle-text-color);
+  border-bottom: 1px solid var(--accent-color);
   padding-top: 24px;
   padding-bottom: 24px;
   background-color: var(--main-title-color);
@@ -459,7 +459,7 @@ body {
 
 .footer-soc-list {
   display: flex;
-  gap: 24px;
+  gap: 16px;
 }
 
 .footer-soc-item {
